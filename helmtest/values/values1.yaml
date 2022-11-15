@@ -1,0 +1,4 @@
+app:
+  val1: ConfigMap2
+  val2: kube-dashboard2
+  val3: kubernetes-dashboard2
