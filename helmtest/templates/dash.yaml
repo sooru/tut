@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: {{ .Values.app.val1 }}
-metadata:
-  labels:
-    k8s-app: {{ .Values.app.val2 }}
-  name: {{ .Values.app.val2 }}
-  namespace: {{ .Values.app.val3 }}
-  cert_value: {{ .Values.cert_value }}
-  token_value: {{ .Values.token_value }}
