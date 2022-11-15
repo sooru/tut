@@ -9,6 +9,6 @@ entries:
     name: hello
     type: application
     urls:
-    - https://github.com/sooru/tut/hello-0.1.0.tgz
+    - https://github.com/sooru/tut/blob/master/hello-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-15T09:56:58.2597573Z"
