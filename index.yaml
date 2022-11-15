@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-15T09:56:58.2612467Z"
+    description: A Helm chart for Kubernetes
+    digest: 9bda0ccd9262aa69553226de0336e6b961f3e8e17eefc16a246836135d0eb91b
+    name: hello
+    type: application
+    urls:
+    - https://github.com/sooru/tut/hello-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-15T09:56:58.2597573Z"
